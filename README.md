@@ -1,2 +1,3 @@
 # ALXprodev-advanced_git
-Project using Git Flow workflow
+Advanced Git project for ALX program
+## GitFlow Implementation
